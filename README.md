@@ -6,7 +6,7 @@ Proyek ini adalah implementasi pengenalan plat nomor kendaraan menggunakan YOLOv
 ## Penggunaan
 1. Instal semua paket yang diperlukan dengan menjalankan perintah berikut:
     ```bash
-    pip install streamlit pandas ultralytics
+    pip install ~~package~~
     ```
 
 2. Pastikan untuk memiliki gambar kendaraan dengan plat nomor yang ingin diidentifikasi.
